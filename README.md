@@ -1,1 +1,1 @@
-This repo has my React projects created from following lessons in Stephen Griders Modern React with Redux Udemy course
+This repo has a React project were I built profile cards of Personal Digital Assistant Profile Cards. This was derived from Stephen Grider's Modern React with Redux Udemy course.
